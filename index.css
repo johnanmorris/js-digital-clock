@@ -1,16 +1,29 @@
 body {
-    background-color: #80d4ea;
+  background-color: #80d4ea;
+
 }
 
 #clock {
-    height: 100px;
-    width: 800px;
-    margin: auto;
-    position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
-    padding-top: 70px;
-    font-family: courier, monospace;
-    text-align: center;
-    color: white;
-    font-size: 100px;
+  margin: 35vmin auto 0 auto;
+  font-family: courier, monospace;
+  font-size: 3em;
+  text-align: center;
+  color: white;
+}
+
+
+#calendar {
+  color: #4660C8;
+  font-family: courier, monospace;
+  font-size: 2em;
+  text-align: center;
+  margin: 5vmin auto 0 auto;
+}
+
+#dublin {
+  margin: 5vmin auto 0 auto;
+}
+
+#new-york {
+  margin: 5vmin 5vmin 0 auto;
 }
